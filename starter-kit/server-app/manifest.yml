@@ -1,5 +1,5 @@
 applications:
-- name: solution-starter-kit-disasters-2020-server
+- name: Nik's assistant
   random-route: true
   command: npm start
   path: .
